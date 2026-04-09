@@ -5,7 +5,7 @@ public class Main {
 
         Library library = new Library();
 
-        // Initialize with 5 books
+
         library.addBook(new Book(1, "Java 1", "ABC 1", true));
         library.addBook(new Book(2, "Java 2", "ABC 2", true));
         library.addBook(new Book(3, "Java 3", "ABC 3", true));
