@@ -10,7 +10,7 @@ class Library {
         books.add(b);
     }
 
-    // Display books
+
     void displayBooks() {
         for (Book b : books) {
             System.out.println(b);
